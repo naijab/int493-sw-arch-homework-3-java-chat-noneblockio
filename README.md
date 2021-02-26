@@ -1,3 +1,3 @@
 # INT493 Software Architecture for High Scalability
-> Lab 5 Java none blocking IO
+> Homework 3 - Java none blocking IO
 
